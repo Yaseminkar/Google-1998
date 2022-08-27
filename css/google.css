@@ -1,0 +1,42 @@
+.box{
+    width: 384.5px; ;
+    height: 100px;
+    padding: 10px;
+    margin: 2px;
+    text-align: center;
+    float: left;
+}
+
+.s1{
+    background-color: rgb(228, 231, 231);
+    padding: 10px;
+    height: 100px;
+    text-align: center;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.bg1{
+    background-color: rgb(148, 235, 235);
+    margin-left: 100px;  
+}
+
+.bg2{    
+    background-color: rgb(136, 227, 227);
+}
+
+.bg3{
+    background-color: rgb(122, 203, 203);
+}
+
+img{
+    padding-left: 520px;
+}
+
+footer{
+    float: left;
+    margin-left: 600px;;
+    
+    
+}
+
